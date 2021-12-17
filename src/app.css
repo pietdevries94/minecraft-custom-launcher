@@ -1,4 +1,9 @@
-/* Write your global styles here, in PostCSS syntax */
+@import url('/static/fonts/stylesheet.css');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.text-stroke-stone-700 {
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: theme('colors.stone.700');
+}

@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Minecraft';
+	src: url('/fonts/Minecraft-Regular.woff2') format('woff2'),
+		url('/fonts/Minecraft-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Minecrafter';
+	src: url('/fonts/Minecrafter.woff2') format('woff2'),
+		url('/fonts/Minecrafter.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
